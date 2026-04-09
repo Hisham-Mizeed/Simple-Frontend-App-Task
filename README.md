@@ -15,7 +15,7 @@ When the container runs, it displays:
 
 ## 📥 Clone Repository
 
-git clone https://github.com/Hisham-Mizeed/Simple-Frontend-App.git
+git clone https://github.com/Hisham-Mizeed/Simple-Frontend-App-task.git
 
 cd Multistage-Dockerfile-Task
 
